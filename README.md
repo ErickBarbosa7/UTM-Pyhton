@@ -27,6 +27,10 @@ El proyecto incluye:
 
 - ![image](https://github.com/user-attachments/assets/ba214b8d-da30-4852-9cdd-52f2bdaadce7)
 
+- Diagrama de flujo del funcionamiento del algoritmo en python
+
+- ![image](https://github.com/user-attachments/assets/c53a2717-5311-4924-8e7e-1914a61bd943)
+
 
 
 
