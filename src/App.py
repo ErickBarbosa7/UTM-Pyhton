@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
 
+
+
 # Clase que define una Maquina de Turing
 class MaquinaDeTuring:
     def __init__(self, estados, alfabeto, funcion_transicion, estado_inicial, estados_aceptacion):
